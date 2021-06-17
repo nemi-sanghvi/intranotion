@@ -1,0 +1,550 @@
+@media screen and (max-width: 1440px) {
+    .intra-web.about-area .right-side {
+        max-width: 100%;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .intra-web.about-area {
+        margin: 250px 0px 100px;
+    }
+    .intra-web.header-area .header-menu>li {
+        margin: 0px 30px;
+    }
+    .intra-web.ourindustries-area .our-box {
+        top: 40px;
+    }
+    .intra-web.ourindustries-area .filmmaking-box {
+        margin: 100px 0px;
+    }
+    .intra-web.test-area .card {
+        margin: 55px 20px;
+    }
+    .intra-web.contact-area .contactbg-box {
+        top: 12%;
+    }
+    .intra-web.contact-area .container {
+        max-width: 95%;
+    }
+    .intra-web.header-area .header-menu>li {
+        margin: 0px 27px;
+    }
+    .intra-web.whole-banner-image {
+        height: 679px;
+    }
+    .intra-web.contact-area .contactinfo-text h2, .intra-web .title-text h2, .intra-web.ourindustries-area .film-text h2, .intra-web.contact-area .folllow-text h2 , .intra-web.contact-area .contact-text h2 {
+        font-size: 35px;
+    }
+    .intra-web.services-area .container {
+        max-width: 90%;
+    }
+    .intra-web.about-area .aboutus-text strong{
+        font-size: 25px;
+    }
+    .intra-web.creative-area .service-image img{
+        height: 250px;  
+    }
+    .intra-web.test-area .container, .intra-web.creative-area .container, .intra-web.ourindustries-area .container{
+        max-width: 90%;
+    }
+    .intra-web.contact-area .contact-whole-box {
+        padding: 100px 0px;
+    }
+    .intra-web.contact-area .contact-info p, .intra-web.contact-area .contact-info a{
+        font-size: 18px;
+    }
+    .intra-web.contact-area .social-box a {
+        margin-right: 20px;
+    }
+    .intra-web.about-area .left-side {
+        left: 0;
+        top: 40px;
+    }
+    .intra-web.banner-area .banner-slider .owl-dots{
+        top: -92px;
+    }
+    .intra-web.contact-area .contact-inquiry-box {
+        margin-left: 0px;
+    }
+    .intra-web.contact-area .followus-box{
+        margin-left: 55px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .intra-web.banner-area .banner-slider .owl-dots{
+        top: -88px;
+    }
+    .intra-web.whole-banner-image {
+        height: 647px;
+    }
+    .intra-web.services-area .service-box{
+        padding: 50px 0px;
+    }
+    .intra-web.ourindustries-area .filmmaking-box {
+        margin: 60px 0px 100px;
+    }
+    .intra-web.ourindustries-area .carousel-indicators [data-bs-target]{
+        width: 10px;
+    height: 10px;
+    }
+    .intra-web.creative-area .service-box{
+        margin: 20px 10px;
+    }
+    .intra-web.creative-area{
+        padding: 80px 0px;
+        margin: 80px 0px 60px;
+    }
+    .intra-web.creative-area .creative-w-box {
+        margin-bottom: 70px;
+    }
+    .intra-web.header-area .container{
+        max-width: 100%;
+    }
+    
+}
+
+@media screen and (max-width: 1200px) {
+    .intra-web.header-area .header-menu>li {
+        margin: 0px 22px;
+    }
+    .intra-web.banner-area .banner-text {
+        max-width: 80%;
+    }
+    .intra-web.banner-area .carousel-item img {
+        width: 60%;
+    }
+    .intra-web .intra-logo img {
+        margin-right: 0px;
+        width: 65px;
+    }
+    .intra-web.about-area {
+        margin: 250px 0px 100px;
+    }
+    .intra-web.banner-area .banner-slider .owl-dots{
+        top: -119px;
+    }
+    .intra-web.banner-area .header-slider{
+        width: 70%;
+    }
+    .intra-web.about-area .aboutus-text strong{
+        font-size: 22px;
+    }
+    .intra-web.test-area .card {
+        margin: 55px 10px;
+    }
+    .intra-web.contact-area .contactbg-box {
+        top: 9%;
+    }
+    .intra-web.contact-area .contact-info p, .intra-web.contact-area .contact-info a {
+        font-size: 19px;
+    }
+    .intra-web.contact-area .card-body {
+        padding: 80px 25px;
+    }
+    .intra-web.contact-area .contact-whole-box {
+        padding: 100px 0px;
+    }
+    .intra-web.contact-area .social-box a {
+        margin-right: 25px;
+    }
+    .intra-web.test-area .container, .intra-web.creative-area .container, .intra-web.ourindustries-area .container{
+        max-width: 95%;
+    }
+    .intra-web .intra-logo a{
+        font-size: 24px;
+    }
+    .intra-web.creative-area .service-link a{
+        padding: 9px 16px;
+    }
+    .intra-web.about-area .left-side{
+        top: 127px;
+    }
+    .intra-web.contact-area .contact-info {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intra-web.header-area .header-menu>li {
+        margin: 16px 0px;
+    }
+    .intra-web.banner-area {
+        padding: 89px 0px;
+    }
+    .intra-web.banner-area .carousel-item img {
+        width: 80%;
+    }
+    .intra-web.header-area ul.navbar-nav.header-menu {
+        margin: 30px 0px;
+    }
+    .intra-web.about-area {
+        margin: 150px 0px 80px;
+    }
+    .intra-web.about-area .left-side {
+        margin-bottom: 80px;
+    }
+    .intra-web.services-area .service-box.white-box.second-box {
+        position: relative;
+        top: 0px;
+    }
+    .intra-web.services-area .service-box.fifth-box {
+        position: relative;
+        top: 0px;
+    }
+    .intra-web .title-text {
+        margin-bottom: 60px;
+    }
+    .intra-web.ourindustries-area .our-box {
+        top: 40px;
+    }
+    .intra-web .title-text h2 {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .intra-web.ourindustries-area .filmmaking-box {
+        margin: 40px 0px 100px;
+    }
+    .intra-web.ourindustries-area .industry-bg img {
+        height: 300px;
+        object-fit: cover;
+    }
+    .intra-web.whole-banner-image {
+        height: 698px;
+    }
+    .intra-web.about-area {
+        margin: 270px 0px 80px;
+    }
+    .intra-web.about-area .left-side {
+        left: -36px;
+    position: relative;
+    top: 0;
+    }
+    .intra-web.about-area .left-side img {
+        max-width: 100%;
+    }
+    .intra-web.services-area .service-box{
+        margin: 20px 0px;
+    }
+    .intra-web.contact-area .contactbg-box {
+        top: 129px;
+    }
+    .intra-web.contact-area .contactinfo-text h2, .intra-web .title-text h2, .intra-web.ourindustries-area .film-text h2, .intra-web.contact-area .folllow-text h2, .intra-web.contact-area .contact-text h2 {
+        font-size: 30px;
+    }
+    .intra-web.contact-area .contact-whole-box {
+        padding: 60px 0px 80px;
+    }
+    .intra-web.contact-area .contactinfo-text h2 {
+        margin-bottom: 40px;
+    }
+    .intra-web.contact-area .contactinfo-box {
+        margin-bottom: 25px;
+    }
+    .intra-web.contact-area .followus-box {
+        margin: 60px 0px;
+    }
+    .intra-web.banner-area .header-slider {
+        width: 100%;
+    }
+    .intra-web.ourindustries-area .right-side{
+        margin-left: 0px;
+    margin-top: 30px;
+    }
+    .intra-web.services-area {
+        margin: 0px 0px 60px;
+    }
+    .intra-web.creative-area .service-box{margin: 20px 0px;}
+    .navbar-collapse {
+        position: absolute;
+        top: 50px;
+        left: 0;
+        right: 0;
+        padding-left: 22px;
+        background: rgba(25, 30, 62, 0.9);
+        z-index: 99;
+    }
+    .intra-web.contact-area .contact-bg img {
+        height: 300px;
+        object-fit: cover;
+    }
+  
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-collapse {
+        position: absolute;
+        top: 50px;
+        left: 0;
+        right: 0;
+        padding-left: 22px;
+        background: rgba(25, 30, 62, 0.9);
+        z-index: 99;
+    }
+    .intra-web.banner-area .banner-text {
+        max-width: 100%;
+    }
+    .intra-web.about-area {
+        margin: 70px 0px;
+    }
+    .intra-web .title-text {
+        margin-bottom: 40px;
+    }
+    .intra-web.ourindustries-area .film-text h2 {
+       
+        margin-bottom: 30px;
+    }
+    .intra-web .title-text p br {
+        display: none;
+    }
+    .intra-web.ourindustries-area .title-text.text-center.industries-text {
+        max-width: 90%;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .intra-web.banner-area .banner-slider {
+        margin-top: 60px;
+    }
+    .intra-web.whole-banner-image {
+        height: 592px;
+    }
+    .intra-web.about-area .left-side img {
+        max-width: 100%;
+    }
+    .intra-web.about-area {
+        margin: 180px 0px 0px;
+    }
+    .intra-web.banner-area .banner-slider .owl-dots {
+        top: -76px;
+    }
+    .intra-web.about-area .left-side {
+        left: -6%;
+    }
+    .intra-web.about-area .aboutus-text p {
+        font-size: 18px;
+    }
+    .intra-web.contact-area .contact-bg img {
+        height: 300px;
+        object-fit: cover;
+    }
+    .intra-web.contact-area .contactbg-box {
+        top: 6%;
+    }
+    .intra-web.contact-area .contact-text {
+        max-width: 90%;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .intra-web.contact-area .folllow-text h2{
+        margin-bottom: 30px;
+    }
+    .intra-web.contact-area .social-box a img , .intra-web.contact-area .contact-icon a img {
+        width: 100%;
+        height: auto;
+        max-width: 80%;
+    }
+    .intra-web.contact-area .contact-info p, .intra-web.contact-area .contact-info a {
+        font-size: 18px;
+    }
+    .intra-web.contact-area .contact-info {
+        margin-left: 15px;
+    }
+    .intra-web.services-area .service-box{
+        width: 100%;
+    max-width: 84%;
+    margin: 16px auto;
+    }
+    .intra-web.contact-area .card-body {
+        padding: 50px 25px 40px;
+    }
+    .intra-web.test-area .star-box span{
+        font-size: initial;
+    }
+    .intra-web.header-area .container{
+        max-width: 100%;
+    }
+    .intra-web.about-area .left-side {
+        margin: 0px 0px 60px;
+    }
+    .intra-web.about-area .aboutus-text p{
+        font-size: initial;
+    }
+    .intra-web.services-area {
+        margin: 40px 0px;
+    }
+    .intra-web.creative-area .creative-tabs li button{
+        padding: 10px 0px;
+        width: 127px;
+        text-align: center;
+    }
+    .intra-web.creative-area .service-image img{
+        height: auto;
+    }
+    .intra-web.creative-area .creative-w-box{
+        margin-bottom: 60px;
+    }
+    .intra-web.creative-area .service-box{
+        margin: 20px 20px;
+    }
+    .intra-web.ourindustries-area .carousel-indicators {
+        bottom: -69px;
+    }
+    .intra-web.creative-area{
+        padding: 60px 0px;
+    }
+    .intra-web.contact-area .contactbg-box {
+        top: 7%;
+    }
+    .intra-web.footer-area .footer-copyright p {
+        font-size: 13px;
+    }
+    .intra-web.banner-area {
+        padding: 60px 0px;
+    }
+  
+}
+
+@media screen and (max-width: 479px) {
+    .intra-web.banner-area .carousel-item img {
+        width: 100%;
+    }
+    .intra-web.banner-area .banner-slider {
+        margin-top: 30px;
+    }
+    .intra-web.about-area .aboutus-text strong br {
+        display: none;
+    }
+    .intra-web .intra-logo a {
+        font-size: 20px;
+    }
+    .intra-web.banner-area .banner-text h1 {
+        font-size: 23px;
+    }
+    .intra-web.whole-banner-image {
+        height: 478px;
+    }
+    .intra-web.banner-area {
+        padding: 50px 0px 0px;
+    }
+    .intra-web .title-text h2 {
+        font-size: 30px;
+    }
+    .intra-web.ourindustries-area .filmmaking-box {
+        margin: 20px 0px 100px;
+    }
+    .intra-web.ourindustries-area .film-text h2 {
+        font-size: 30px;
+    }
+    .intra-web.services-area .service-text {
+        max-width: 85%;
+    }
+    .intra-web.contact-area .contact-info p, .intra-web.contact-area .contact-info a{
+        font-size: 16px;
+    }
+    .intra-web.banner-area .banner-text h1 {
+        font-size: 20px;
+    }
+    .intra-web.banner-area .banner-text h1 {
+        font-size: 22px;
+    }
+    .intra-web.banner-area .banner-slider .owl-dots {
+        top: -57px;
+    }
+    .intra-web.about-area {
+        margin: 150px 0px 0px;
+    }
+    .intra-web.about-area .left-side {
+        left: -5%;
+    }
+    .intra-web.about-area .left-side {
+        margin-bottom: 60px;
+    }
+    .intra-web.about-area .aboutus-text strong {
+        font-size: 17px;
+    }
+    .intra-web.services-area .service-box{
+        width: 100%;
+        max-width: 100%;
+    }
+    .intra-web.services-area .service-text {
+        max-width: 100%;
+    }
+    .intra-web.services-area .service-box{
+        padding: 50px 16px;
+    }
+    .intra-web.services-area .container{
+        max-width: 95%;
+    }
+    .intra-web.about-area .aboutus-text p {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .intra-web.about-area .aboutus-text strong{
+        margin-bottom: 20px;
+    }
+    .intra-web.services-area {
+        margin: 40px 0px;
+    }
+    .intra-web.ourindustries-area .container{
+        max-width: 100%;
+    }
+    .intra-web.contact-area .contactinfo-text h2, .intra-web .title-text h2, .intra-web.ourindustries-area .film-text h2, .intra-web.contact-area .folllow-text h2, .intra-web.contact-area .contact-text h2{
+        font-size: 30px;
+    }
+    .intra-web.contact-area .contactinfo-text p, .intra-web .title-text p , .intra-web.banner-area .banner-text p{
+        font-size: 14px;
+    }
+    .intra-web.contact-area .form-box .isettings{
+        padding: 8px 16px;
+    }
+    .intra-web.contact-area .terms-whole-box{
+        flex-wrap: wrap;
+    }
+    .contact-whole-box .check-box label {
+        font-size: 13px;
+    }
+    .contact-whole-box .form-submit {
+        margin-top: 30px;
+    }
+    .intra-web.contact-area .form-submit .submit-btn{
+        padding: 8px 19px;
+    }
+    .intra-web.contact-area .contact-info {
+        margin-left: 9px;
+    }
+    .intra-web.contact-area .contactinfo-box {
+        margin-bottom: 16px;
+    }
+    .intra-web.creative-area .creative-tabs li button{
+        width: 110px;
+    }
+    .intra-web.test-area .container, .intra-web.creative-area .container, .intra-web.ourindustries-area .container{
+        max-width: 100%;
+    }
+    .intra-web.creative-area .service-box {
+        margin: 20px 10px;
+    }
+    .intra-web.contact-area .terms-whole-box{
+        display: block;
+        margin-top: 0px;
+    }
+    .intra-web .intra-logo img{
+        width: 65px;
+    }
+    .intra-web.banner-area .banner-text{
+        margin-bottom: 40px;
+    }
+    .intra-web.banner-area .banner-text p {
+        font-size: 14px;
+    }
+    .intra-web.footer-area .footer-copyright p {
+        font-size: 14px;
+    }
+    .intra-web.footer-area {
+        padding: 20px 0px;
+    }
+    .sticky .intra-web.header-area {
+        padding: 3px 0px;
+    }
+}
+
+@media screen and (max-width: 320px) {}
